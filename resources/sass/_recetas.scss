@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(129, 129, 129);
+}
+
+.bg-primary .navbar-brand{
+    color: white;
+
+    &:hover{
+        color: wheat;
+    }
+}
+trix-editor{
+    height: 300px;
+}
